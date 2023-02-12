@@ -1,0 +1,26 @@
+:root{
+    --aquablue: rgb(65, 84, 255);
+    --white: rgb(224, 224, 224);
+}
+
+.reviewsButtons button{
+    background-color: transparent;
+    border: var(--white);
+    color: black;
+    margin-bottom: 10px;
+}
+
+#mainCard {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.randomButton{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-style: oblique;
+    cursor:pointer;
+}
