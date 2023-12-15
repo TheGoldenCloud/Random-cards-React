@@ -17,6 +17,8 @@ function MainCardInfo() {
     .then((res)=>{
       setCardData(res.map(cd => <CardInfo key = {cd.id} fullName = {cd.name} role = {cd.role} bio = {cd.bio} img = {cd.img} />));
     } );
+
+    console.log(<CardInfo/>);
   },[]);
 
   let right = () =>{
