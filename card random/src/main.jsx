@@ -7,4 +7,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <MainCardInfo />
   </React.StrictMode>,
 )
-//RENDERINGS!!! SEE PROS AND CONS VIDEOOOO, SKINI SA GITHUBA COD!!!

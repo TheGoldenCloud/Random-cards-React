@@ -46,7 +46,7 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <!-- <img src="/public/app.png" alt="appImg" width="300" height="500"> -->
-<img src="./card random/public/app.png" alt="appImg" width="300" height="500">
+<img src="./card random/public/app.png" alt="appImg" width="600" height="500">
 
 React app that displays next card or the random one.
 
@@ -87,11 +87,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Start server
-   ```sh
-   npm start
-   ```
-5. Start app
+4. Start app
    ```sh
    npm run dev
    ```
