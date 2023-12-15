@@ -2,17 +2,17 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/TheGoldenCloud/Birthday-reminder">
-    <img src="./birthdayReminder/public/birthday-cake-svgrepo-com.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/TheGoldenCloud/Random-cards-React">
+    <img src="./card random/public/cards-svgrepo-com.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Birthday reminder</h3>
 
   <p align="center">
     ·
-    <a href="https://github.com/TheGoldenCloud/Birthday-reminder/issues">Report Bug</a>
+    <a href="https://github.com/TheGoldenCloud/Random-cards-React/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TheGoldenCloud/Birthday-reminder/issues">Request Feature</a>
+    <a href="https://github.com/TheGoldenCloud/Random-cards-React/issues">Request Feature</a>
   </p>
 </div>
 
@@ -46,9 +46,9 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <!-- <img src="/public/app.png" alt="appImg" width="300" height="500"> -->
-<img src="./birthdayReminder/public/birth.png" alt="appImg" width="300" height="500">
+<img src="./card random/public/app.png" alt="appImg" width="300" height="500">
 
-This is a small react app that is used for displaying birthdays from mysql database, and birthdays can be deleted just on renderer side.
+React app that displays next card or the random one.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,11 +77,11 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/TheGoldenCloud/Birthday-reminder.git
+   git clone https://github.com/TheGoldenCloud/Random-cards-React.git
    ```
 2. Get into app file
    ```sh
-   cd Birthday-reminder
+   cd card random
    ```
 3. Install NPM packages
    ```sh
@@ -90,16 +90,8 @@ This is an example of how to list things you need to use the software and how to
 4. Start server
    ```sh
    npm start
-
-5. Get into front
-   ```sh
-   cd birthdayReminder
-
-6. Install NPM packages
-   ```sh
-   npm install
    ```
-7. Start app
+5. Start app
    ```sh
    npm run dev
    ```
